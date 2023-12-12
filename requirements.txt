@@ -175,7 +175,7 @@ tablib==0.14.0
 texttable==0.9.1
 thehive4py==1.6.0
 toml==0.10.1
-tornado==6.0.4
+tornado==6.3.3
 tqdm==4.46.1
 twilio==6.3.0
 twine==3.2.0
